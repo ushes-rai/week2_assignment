@@ -1,0 +1,26 @@
+/* body{
+    background-image: url(otter.jpg);
+    background-size: cover;
+} */
+table{
+    margin-block: 10px;
+    border: 3px solid blue;
+    padding: 10px;
+}
+.submit{
+    padding: 10px;
+    background-color: skyblue;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    transition: 0.2s ease-in-out;
+}
+.submit:hover{
+    background-color: red;
+}
+
+select{
+    border: 2px solid red;
+    color: red;
+    padding: 8px;
+}
